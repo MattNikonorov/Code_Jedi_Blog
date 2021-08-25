@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import Pic1 from '/fun-fun-begins.gif'
+import Pic1 from './/fun-fun-begins.gif'
 import Pic2 from './/fakenews.png'
 import Pic3 from './/realnews.png'
 export default function code1() {
